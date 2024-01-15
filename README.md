@@ -1,0 +1,1 @@
+This is snippet from a coin project I worked on. For reference, parts of this code are taken from user-created coin projects posted on BSCscan. The transaction security function was designed by me and a developer I met a couple years back while starting the project.
